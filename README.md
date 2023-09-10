@@ -1,9 +1,9 @@
-## Olá! Sou o Matheus Morera. 
+## Olá! Sou o Matheus Morera. <img width=22 src="https://em-content.zobj.net/source/apple/354/thumbs-up_medium-light-skin-tone_1f44d-1f3fc_1f3fc.png"> 
 
 #### var (pr-br) <br>
 Estou no início da minha carreira como desenvolvedor front-end, aos 22 anos, em Campinas, São Paulo. Tenho um forte interesse em tecnologia e estou determinado a aprender habilidades nessa jornada. Estou pronto a enfrentar desafios e colaborar em projetos para o mundo.
 #### var (en-us) <br>
-I'm at the beginning of my career as a front-end developer, at 22 years old, in Campinas, São Paulo. I have a strong interest in technology and am determined to acquire skills on this journey. I'm ready to tackle challenges and collaborate on projects for the world.
+I'm at the beginning of my career as a front-end developer, at 22 years old, in Campinas, São Paulo. I have a strong interest in technology and am determined to acquire skills on this journey. I'm ready to tackle challenges and collaborate on projects for the world. 
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
