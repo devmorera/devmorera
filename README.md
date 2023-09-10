@@ -1,4 +1,4 @@
-## Olá! Sou o Matheus Morera. <img width=22 src="https://em-content.zobj.net/source/apple/354/thumbs-up_medium-light-skin-tone_1f44d-1f3fc_1f3fc.png"> 
+## Olá! Sou o Matheus Morera. <img width=22 src="https://em-content.zobj.net/source/apple/354/man-technologist-medium-skin-tone_1f468-1f3fd-200d-1f4bb.png"> 
 
 #### var (pr-br) <br>
 Estou no início da minha carreira como desenvolvedor front-end, aos 22 anos, em Campinas, São Paulo. Tenho um forte interesse em tecnologia e estou determinado a aprender habilidades nessa jornada. Estou pronto a enfrentar desafios e colaborar em projetos para o mundo.
@@ -11,4 +11,3 @@ I'm at the beginning of my career as a front-end developer, at 22 years old, in 
     <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
-
